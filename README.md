@@ -12,4 +12,8 @@ Will give what SQL that migration would run.
 python manage.py migrate
 
 
+2. How to test
+
+python manage.py test polls
+
 Please refer to https://docs.djangoproject.com/en/1.8/intro/tutorial01/
